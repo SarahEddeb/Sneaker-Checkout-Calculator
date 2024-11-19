@@ -1,0 +1,37 @@
+{
+  "name": "checkout-calculator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node backend/app.js",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.8",
+    "axios": "^0.24.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.5",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.8.2",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "chai": "^4.3.6",
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1",
+    "mocha": "^10.1.0",
+    "typescript": "4.8.4"
+  }
+}
