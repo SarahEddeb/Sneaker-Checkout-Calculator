@@ -1,4 +1,4 @@
-# CSC301 Assignment 2 - Sneaker Checkout Calculator
+# Sneaker Checkout Calculator
 Contributers: Sarah Eddeb, Madhurima Dutta 
 
 # Table of contents
@@ -6,8 +6,6 @@ Contributers: Sarah Eddeb, Madhurima Dutta
 2. [How to run the application locally](#app)
 3. [Report](#report)
 
-
-## This application can be accessed at [https://csc301-a2-app.herokuapp.com]( https://csc301-a2-app.herokuapp.com)
 
 ## How to run the testing infrastructure <a name="testing"></a>
   1. Open your command-line interface (CLI) 
